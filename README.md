@@ -1,7 +1,7 @@
 # Mitron Bank: A Data-Driven Credit Card Launch Strategy
 
 <p align="center">
-  <img src="Dashboard Showcase/Recommendation.png" alt="Recommendations Dashboard Screenshot" width="800"/>
+  <img src="Dashboard_Showcase/Recommendation.png" alt="Recommendations Dashboard Screenshot" width="800"/>
 </p>
 
 ---
