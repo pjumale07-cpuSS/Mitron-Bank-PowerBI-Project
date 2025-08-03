@@ -1,57 +1,64 @@
 # Mitron Bank: A Data-Driven Credit Card Launch Strategy
 
-<p align="center">
-  <img src="Dashboard_Showcase/Recommendation.png" alt="Recommendations Dashboard Screenshot" width="800"/>
-</p>
+## 📋 Project Overview
+This project was undertaken to help Mitron Bank, a legacy financial institution, launch a new line of credit cards. I analyzed a sample dataset of 4,000 customers across five cities to uncover actionable insights. The goal was to move beyond data visualization to create a tangible, data-driven strategy that would inform the design, features, and marketing of the new credit cards.
 
 ---
 
-## 📂 Project Files
-**[➡️ Download the Power BI file (.pbix) from the 'Dashboard file' folder](./Dashboard%20file/Project_bank.pbix)**
-
----
-
-## 📝 Problem Statement
-
-Mitron Bank, a legacy financial institution, aimed to introduce a new line of credit cards to broaden its market reach. I took on the role of a data analyst to analyze a sample dataset of 4,000 customers. The objective was to uncover key customer insights and provide a data-driven strategy for the launch, including identifying target segments and recommending specific card features.
-
----
-
-## 💡 Key Recommendations
-
-The analysis concluded with a recommendation for a **two-card strategy** to cater to distinct, high-value customer segments identified in the data.
-
-### 💳 Card 1: Mitron "Edge" Card (Everyday Cashback Engine)
-- **Target Audience:** Salaried Professionals & High Spenders.
-- **Core Features:** 5% Cashback on Bills & Groceries (**Data Signal:** Top 2 spend categories), 3% Cashback on Online Spending, and UPI on Credit enabled.
-
-### 💳 Card 2: Mitron "Apex" Card (The Premium Lifestyle Card)
-- **Target Audience:** Top 20% Spenders, Metro-based.
-- **Core Features:** 5x Rewards on Travel & Dining (**Data Signal:** Key spend for this segment), Airport Lounge Access, and Low Forex Markup.
-
----
-
-## 📊 Dashboard Showcase
-
-### 1. Introduction & Executive View
-The landing page provides a project overview, key KPIs, and navigation. The executive view aggregates the most critical insights into a single pane.
-
-![Introduction Page](Dashboard Showcase/Introduction.png)
-
-### 2. Recommendations & Next Steps
-The final page outlines the complete, data-backed strategy, including the recommended card features and the roadmap for implementation.
-
-![Recommendations Page](Dashboard Showcase/Recommendation.png)
+## 🚀 Key Performance Indicators (KPIs)
+| Metric | Value |
+| :--- | :--- |
+| **Customers Analyzed** | 4,000 |
+| **Cities Covered** | 5 |
+| **Recommended Card Strategies** | 2 |
 
 ---
 
 ## 🛠️ Tools Used
-
-- **Power BI:** Data Modeling, DAX Calculations, Data Visualization, and Dashboarding.
-- **Microsoft Excel:** Initial data exploration.
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/DAX-8A2BE2?style=for-the-badge" alt="DAX"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+</p>
 
 ---
 
-## 🔗 Connect with me
+## 📊 Dashboard Walkthrough
 
+### 1. The Introduction: Setting the Scene
+The project begins with a clear landing page that outlines the project's context, key objectives, and the main KPIs at a glance, providing an immediate understanding of the analysis.
+
+<p align="center">
+  <img src="Dashboard_Preview/1_Introduction.png" alt="Introduction Page" width="800"/>
+</p>
+
+### 2. The Analysis: Uncovering Key Insights
+This executive summary aggregates the most critical findings. It analyzes customer spending by category, location, and income, and identifies the highest-value segments. This is the analytical engine that drives the final strategy.
+
+<p align="center">
+  <img src="Dashboard_Preview/5_Executive View.png" alt="Executive View" width="800"/>
+</p>
+
+### 3. The Recommendation: A Data-Driven Strategy
+The final page of the dashboard presents the strategic recommendations derived from the analysis, detailing the proposed card types, their features, and the target audience for each.
+
+<p align="center">
+  <img src="Dashboard_Preview/6_Recommendation.png" alt="Recommendation Page" width="800"/>
+</p>
+
+---
+
+## ✨ The Data-Driven Outcome
+The core of this project was to translate deep data insights into a tangible business strategy. The final recommendation for a **two-card approach** is a direct result of the patterns uncovered during the analysis.
+
+By analyzing spending habits and customer demographics, two distinct customer segments emerged: one driven by everyday essentials and another by lifestyle and travel spending. The proposed "Edge" and "Apex" cards are a **data-driven strategy tailored specifically to these segments**, ensuring that the new product line meets the demonstrated needs of the market and maximizes customer acquisition.
+
+---
+
+## 📂 Project Files
+**[➡️ Download the full Power BI file (.pbix) here](./Dashboard%20file/Project_bank.pbix)**
+
+---
+
+## 🔗 Connect with Me
 * **LinkedIn:** [Prathamesh Jumle](https://www.linkedin.com/in/prathamesh-jumle-1ba156208/)
