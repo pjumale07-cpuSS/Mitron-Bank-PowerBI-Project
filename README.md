@@ -1,95 +1,85 @@
-# Mitron Bank: Credit Card Strategy Dashboard
+# Mitron Bank: A Data-Driven Credit Card Launch Strategy
 
-<p align="center">
-  <img src="Dashboard showcase/Executive Summary.png" alt="Executive Summary Dashboard" width="800"/>
-</p>
-
----
-
-### ✨ Project Overview
-
-This project was designed to help Mitron Bank, a legacy financial institution, develop a data-driven strategy for launching a new line of credit cards. The objective was to analyze a sample dataset of 4,000 customers to identify high-value segments, understand their spending behaviors, and provide actionable recommendations for card features and marketing. The final dashboard serves as a strategic tool to guide business decisions and ensure a successful market entry.
+## 📋 Project Overview
+This project was undertaken to help Mitron Bank, a legacy financial institution, launch a new line of credit cards. I analyzed a sample dataset of 4,000 customers across five cities to uncover actionable insights. The goal was to move beyond data visualization to create a tangible, data-driven strategy that would inform the design, features, and marketing of the new credit cards.
 
 ---
 
-### 📊 Key Performance Indicators (KPIs)
-
-| Metric | Description |
+## 🚀 Key Performance Indicators (KPIs)
+| Metric | Value |
 | :--- | :--- |
-| **Customer Segmentation** | Identified and profiled key customer segments based on demographics and financial behavior. |
-| **Income Utilisation %** | Calculated the ratio of average spending to average income to gauge credit card affinity. |
-| **Top Spending Categories** | Pinpointed the most popular spending categories to inform rewards and partnership strategies. |
-| **Geographic Analysis** | Mapped customer spending across five major cities to identify high-potential markets. |
+| **Customers Analyzed** | 4,000 |
+| **Cities Covered** | 5 |
+| **Recommended Card Strategies** | 2 |
 
 ---
 
-### ⚙️ Tools & Techniques
-
-* **Power BI:** Used for data modeling, creating DAX measures, and building the interactive dashboard.
-* **DAX:** Leveraged for complex calculations, including KPIs and segment-specific metrics.
-* **Visual Storytelling:** Designed the dashboard with a logical flow to guide users from a high-level overview to detailed, actionable insights.
+## 🛠️ Tools Used
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/DAX-8A2BE2?style=for-the-badge" alt="DAX"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+</p>
 
 ---
 
-## 📈 Dashboard Walkthrough
+## 📊 Dashboard Walkthrough
 
-### 1. Introduction
-The landing page sets the context for the project, outlining the business problem and the key objectives of the analysis.
-
-<p align="center">
-  <img src="Dashboard showcase/Introduction.png" alt="Introduction Page" width="800"/>
-</p>
-
-### 2. Demographic Analysis
-This view breaks down the customer base by key demographics such as age, gender, and occupation, providing a foundational understanding of who the potential cardholders are.
+### 1. Introduction: Setting the Scene
+The project begins with a clear landing page that outlines the project's context, key objectives, and the main KPIs at a glance, providing an immediate understanding of the analysis.
 
 <p align="center">
-  <img src="Dashboard showcase/Demographic Analysis.png" alt="Demographic Analysis" width="800"/>
+  <img src="Dashboard_Preview/1_Introduction.png" alt="Introduction Page" width="800"/>
 </p>
 
-### 3. Income & Spending Analysis
-This slide dives into the financial behaviors of customers, analyzing average income and spending patterns to identify trends and correlations.
+### 2. Demographic Deep Dive
+This view breaks down the customer base by key demographics such as age, gender, occupation, and city, providing a foundational understanding of who the potential cardholders are.
 
 <p align="center">
-  <img src="Dashboard showcase/Income & Spending Analysis.png" alt="Income & Spending Analysis" width="800"/>
+  <img src="Dashboard_Preview/2_Demographics.png" alt="Demographics Page" width="800"/>
 </p>
 
-### 4. Segment-wise Insights
-Here, the dashboard provides a granular look at different customer segments, revealing unique spending habits and preferences that inform a targeted approach.
+### 3. Analyzing Spending Behaviour
+Here, the analysis focuses on *what* customers are spending on. By visualizing the top spending categories, we can identify key areas for targeted rewards and partnerships.
 
 <p align="center">
-  <img src="Dashboard showcase/Segment-wise Insights.png" alt="Segment-wise Insights" width="800"/>
+  <img src="Dashboard_Preview/3_spending behaviour.png" alt="Spending Behaviour Page" width="800"/>
 </p>
 
-### 5. Executive Summary
-This powerful one-page summary aggregates the most critical findings from the entire analysis, providing a high-level overview for quick decision-making.
+### 4. Understanding Payment Preferences
+This slide analyzes *how* customers prefer to pay. It highlights the existing usage of credit cards and other payment methods, confirming the market's readiness for a new card offering.
 
 <p align="center">
-  <img src="Dashboard showcase/Executive Summary.png" alt="Executive Summary" width="800"/>
+  <img src="Dashboard_Preview/4_Payment mode.png" alt="Payment Mode Page" width="800"/>
 </p>
 
-### 6. The Final Recommendation
-The culmination of the analysis, this slide presents the final, data-backed strategy for the credit card launch.
+### 5. The Executive Summary
+This powerful one-page summary aggregates the most critical findings, analyzing income utilisation by occupation and city. This is the analytical engine that drives the final strategy.
 
 <p align="center">
-  <img src="Dashboard showcase/Recommendation.png" alt="Recommendation Page" width="800"/>
+  <img src="Dashboard_Preview/5_Executive View.png" alt="Executive View Page" width="800"/>
 </p>
 
-The **recommendation for a two-card strategy**—one focused on everyday cashback and another on premium travel rewards—is the strategic output of this project. It is not just a summary of data but a forward-looking plan based on the key insights uncovered from customer segmentation and behavioral analysis. This tailored approach is designed to maximize market capture by meeting the demonstrated needs of distinct customer groups.
+### 6. The Final Recommendation: A Data-Driven Strategy
+The final page presents the strategic recommendations derived from all the preceding analysis, detailing the proposed card types, their features, and the target audience for each.
+
+<p align="center">
+  <img src="Dashboard_Preview/6_Recommendation.png" alt="Recommendation Page" width="800"/>
+</p>
 
 ---
 
-### 📂 Project Files
+## ✨ The Data-Driven Outcome
+The core of this project was to translate deep data insights into a tangible business strategy. The final recommendation for a **two-card approach** is a direct result of the patterns uncovered during the analysis.
 
-Feel free to download the Power BI project file to explore the data model, DAX measures, and interactive features.
-
-**[➡️ Download the Power BI file (.pbix) here](./path/to/your/Project_bank.pbix)**
+By analyzing spending habits and customer demographics, two distinct customer segments emerged: one driven by everyday essentials and another by lifestyle and travel spending. The proposed "Edge" and "Apex" cards are a **data-driven strategy tailored specifically to these segments**, ensuring that the new product line meets the demonstrated needs of the market and maximizes customer acquisition.
 
 ---
 
-### 🔗 Let's Connect
+## 📂 Project Files
+**[➡️ Download the full Power BI file (.pbix) here](./Dashboard%20file/Project_bank.pbix)**
 
-Thank you for reviewing my project! I'm passionate about using data to solve business problems and would love to connect.
+---
 
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/prathamesh-jumle-1ba156208/)
-* **Email:** your.email@example.com
+## 🔗 Connect with Me
+* **LinkedIn:** [Prathamesh Jumle](https://www.linkedin.com/in/prathamesh-jumle-1ba156208/)
